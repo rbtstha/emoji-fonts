@@ -1,17 +1,50 @@
 @font-face {
   font-family: face;
   src: url("face.ttf"); }
-.emoji.wink::after {
-  content: "t";
+.emoji.jhimmikka::after {
+  content: "2";
   font-family: face; }
-.emoji.sad::after {
+.emoji.dukhi-aatma::after {
   content: "a";
   font-family: face; }
-.emoji.laugh::after {
+.emoji.haso::after {
   content: "u";
   font-family: face; }
-.emoji.angry::after {
+.emoji.risaha::after {
   content: "b";
+  font-family: face; }
+.emoji.jhilke::after {
+  content: "q";
+  font-family: face; }
+.emoji.baaf-ree::after {
+  content: "o";
+  font-family: face; }
+.emoji.muskan::after {
+  content: "m";
+  font-family: face; }
+.emoji.kumbhakarna::after {
+  content: "6";
+  font-family: face; }
+.emoji.cheruwa::after {
+  content: "x";
+  font-family: face; }
+.emoji.aammmaaaa::after {
+  content: "h";
+  font-family: face; }
+.emoji.huh::after {
+  content: "d";
+  font-family: face; }
+.emoji.chup::after {
+  content: "g";
+  font-family: face; }
+.emoji.hurray::after {
+  content: "k";
+  font-family: face; }
+.emoji.haaaai::after {
+  content: "l";
+  font-family: face; }
+.emoji.terima::after {
+  content: "9";
   font-family: face; }
 
 /*# sourceMappingURL=emoji.css.map */

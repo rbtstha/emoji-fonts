@@ -7,25 +7,80 @@
 
 			.emoji
 			{
-				&.wink::after
+				&.jhimmikka::after
 				{
-					content:"t";
+					content:"2";
 					font-family:face;
 				}
 
-				&.sad::after
+				&.dukhi-aatma::after
 				{
 				content:"a";
 				font-family:face;
 				}
-				&.laugh::after
+				&.haso::after
 				{
 					content:"u";
 				font-family:face;
 				}
-				&.angry::after
+				&.risaha::after
 				{
 					content:"b";
+				font-family:face;
+				}
+				&.jhilke::after
+				{
+					content:"q";
+				font-family:face;
+				}
+				&.baaf-ree::after
+				{
+					content:"o";
+				font-family:face;
+				}
+				&.muskan::after
+				{
+					content:"m";
+				font-family:face;
+				}
+				&.kumbhakarna::after
+				{
+					content:"6";
+				font-family:face;
+				}
+				&.cheruwa::after
+				{
+					content:"x";
+				font-family:face;
+				}
+				&.aammmaaaa::after
+				{
+					content:"h";
+				font-family:face;
+				}
+				&.huh::after
+				{
+					content:"d";
+				font-family:face;
+				}
+				&.chup::after
+				{
+					content:"g";
+				font-family:face;
+				}
+				&.hurray::after
+				{
+					content:"k";
+				font-family:face;
+				}
+				&.haaaai::after
+				{
+					content:"l";
+				font-family:face;
+				}
+				&.terima::after
+				{
+					content:"9";
 				font-family:face;
 				}
 		}
