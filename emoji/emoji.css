@@ -1,0 +1,17 @@
+@font-face {
+  font-family: face;
+  src: url("face.ttf"); }
+.emoji.wink::after {
+  content: "t";
+  font-family: face; }
+.emoji.sad::after {
+  content: "a";
+  font-family: face; }
+.emoji.laugh::after {
+  content: "u";
+  font-family: face; }
+.emoji.angry::after {
+  content: "b";
+  font-family: face; }
+
+/*# sourceMappingURL=emoji.css.map */

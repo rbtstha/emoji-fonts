@@ -1,0 +1,42 @@
+body {
+  background-color: #eee;
+  color: purple;
+  margin: 0px;
+  padding: 0px; }
+
+input {
+  font-family: face; }
+
+h1 {
+  display: block;
+  background: #333;
+  color: #eee;
+  padding: 10px;
+  width: 100%;
+  margin: 0px;
+  font-family: monospace;
+  margin-bottom: 50px; }
+
+table {
+  font-family: sans-serif;
+  margin: 0px auto;
+  width: 80%;
+  border-collapse: collapse; }
+  table th, table td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd; }
+  table th {
+    background: purple;
+    color: white; }
+  table tr:hover {
+    background-color: pink; }
+  table span.emoji {
+    color: #000;
+    font-size: 2em;
+    transition: all 0.3s;
+    cursor: pointer; }
+    table span.emoji:hover {
+      font-size: 4em; }
+
+/*# sourceMappingURL=style.css.map */
