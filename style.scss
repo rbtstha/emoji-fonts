@@ -116,7 +116,7 @@ color:purple;
 		padding:10px 20px 10px 20px;
 		transition:all 0.3s;
 		outline:0px;
-		font-family:times new roman;
+		font-family:sans-serif;
 		color:black;
 		&:first-child
 		{
@@ -173,4 +173,26 @@ color:purple;
 		}
 	}
 
+}
+
+	.social{ text-align:right;
+	display:inline;
+	
+		
+		
+		padding:10px 20px 10px 20px;
+   
+  
+	
+	
+	&.fb{
+
+    
+  
+	}
+	&.insta{
+	 
+    
+	}
+	
 }

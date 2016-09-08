@@ -89,7 +89,7 @@ button.purple {
     padding: 10px 20px 10px 20px;
     transition: all 0.3s;
     outline: 0px;
-    font-family: times new roman;
+    font-family: sans-serif;
     color: black; }
     .pair-container .button-pair:first-child {
       border-top-left-radius: 20px;
@@ -127,5 +127,10 @@ button.purple {
     .intro button:hover {
       background: white;
       color: black; }
+
+.social {
+  text-align: right;
+  display: inline;
+  padding: 10px 20px 10px 20px; }
 
 /*# sourceMappingURL=style.css.map */
