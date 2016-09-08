@@ -3,7 +3,11 @@
 	font-family:face;
 	src:url('face.ttf');
 }
-
+@font-face
+{
+	font-family:football;
+	src:url('football.ttf');
+}
 
 			.emoji
 			{
@@ -83,4 +87,95 @@
 					content:"9";
 				font-family:face;
 				}
+				&.arsenal::after
+				{
+					content:"A";
+				font-family:football;
+				}
+				&.chelsea::after
+				{
+					content:"C";
+				font-family:football;
+				}
+				&.everton::after
+				{
+					content:"E";
+				font-family:football;
+				}
+				&.fulham::after
+				{
+					content:"F";
+				font-family:football;
+				}
+				&.leicester-city::after
+				{
+					content:"l";
+				font-family:football;
+				}
+				&.liverpool::after
+				{
+					content:"L";
+				font-family:football;
+				}
+				&.manchester-city::after
+				{
+					content:"m";
+				font-family:football;
+				}
+				&.manchester-united::after
+				{
+					content:"M";
+				font-family:football;
+				}
+				&.norwich-city::after
+				{
+					content:"n";
+				font-family:football;
+				}
+				&.QPR::after
+				{
+					content:"Q";
+				font-family:football;
+				}
+				&.blackburn::after
+				{
+					content:"R";
+				font-family:football;
+				}
+				&.stroke-city::after
+				{
+					content:"s";
+				font-family:football;
+				}
+				&.southampton::after
+				{
+					content:"S";
+				font-family:football;
+				}
+				&.tottenham::after
+				{
+					content:"T";
+				font-family:football;
+				}
+				&.aston-villa::after
+				{
+					content:"V";
+				font-family:football;
+				}
+				&.watford::after
+				{
+					content:"w";
+				font-family:football;
+				}
+				&.west-ham-united::after
+				{
+					content:"W";
+				font-family:football;
+				}
+				&.swansea-city::after
+				{
+					content:"1";
+				font-family:football;
+				}
 		}
+
