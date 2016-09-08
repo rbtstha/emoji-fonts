@@ -1,6 +1,9 @@
 @font-face {
   font-family: face;
   src: url("face.ttf"); }
+@font-face {
+  font-family: football;
+  src: url("football.ttf"); }
 .emoji.jhimmikka::after {
   content: "2";
   font-family: face; }
@@ -46,5 +49,59 @@
 .emoji.terima::after {
   content: "9";
   font-family: face; }
+.emoji.arsenal::after {
+  content: "A";
+  font-family: football; }
+.emoji.chelsea::after {
+  content: "C";
+  font-family: football; }
+.emoji.everton::after {
+  content: "E";
+  font-family: football; }
+.emoji.fulham::after {
+  content: "F";
+  font-family: football; }
+.emoji.leicester-city::after {
+  content: "l";
+  font-family: football; }
+.emoji.liverpool::after {
+  content: "L";
+  font-family: football; }
+.emoji.manchester-city::after {
+  content: "m";
+  font-family: football; }
+.emoji.manchester-united::after {
+  content: "M";
+  font-family: football; }
+.emoji.norwich-city::after {
+  content: "n";
+  font-family: football; }
+.emoji.QPR::after {
+  content: "Q";
+  font-family: football; }
+.emoji.blackburn::after {
+  content: "R";
+  font-family: football; }
+.emoji.stroke-city::after {
+  content: "s";
+  font-family: football; }
+.emoji.southampton::after {
+  content: "S";
+  font-family: football; }
+.emoji.tottenham::after {
+  content: "T";
+  font-family: football; }
+.emoji.aston-villa::after {
+  content: "V";
+  font-family: football; }
+.emoji.watford::after {
+  content: "w";
+  font-family: football; }
+.emoji.west-ham-united::after {
+  content: "W";
+  font-family: football; }
+.emoji.swansea-city::after {
+  content: "1";
+  font-family: football; }
 
 /*# sourceMappingURL=emoji.css.map */
