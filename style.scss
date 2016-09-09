@@ -85,6 +85,7 @@ table {
     border:2px solid white;
     width: 300px;
     margin:0px;
+    
    
 }
 button.purple{
@@ -116,7 +117,7 @@ color:purple;
 		padding:10px 20px 10px 20px;
 		transition:all 0.3s;
 		outline:0px;
-		font-family:times new roman;
+		font-family:sans-serif;
 		color:black;
 		&:first-child
 		{
@@ -173,4 +174,22 @@ color:purple;
 		}
 	}
 
+}
+
+
+.social
+{
+	button
+	{
+		height:50px;
+		width:50px;
+		padding:0px;
+		background:transparent;
+		border:0px;
+		img
+		{
+			height:100%;
+			width:100%;
+		}
+	}
 }
